@@ -1,4 +1,4 @@
-# Audio-Visual PlayGround
+# Audio-Visual Playground
 ## [Demo link](https://youtu.be/kssfjLcW3gk)
 
 ### Concept
